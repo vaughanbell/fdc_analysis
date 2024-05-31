@@ -18,7 +18,7 @@ Pre-printed as:
 
 > Authors here
 
-This archive contains the [Python code](https://en.wikipedia.org/wiki/Python_(programming_language)) for the analysis reported in the above study. 
+This archive contains the [Python code](https://en.wikipedia.org/wiki/Python_(programming_language)) for the analysis reported in the above study. The code is presented as a [Jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) which are documents that combine both code and the output in a form that can be viewed online, but also re-run and the results reproduced when accompanied by the original dataset.
 
 This repository contains:
 
