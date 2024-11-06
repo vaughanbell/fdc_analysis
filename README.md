@@ -23,6 +23,4 @@ This archive contains the [Python code](https://en.wikipedia.org/wiki/Python_(pr
 This repository contains:
 
 1.  [fdc_topicmodelling_analysis.ipynb](https://github.com/vaughanbell/fdk_analysis/blob/main/fdc_topicmodelling_analysis.ipynb) - Jupyter notebook that contains the reproducible analysis
-2.  etc
-3.  etc
    
