@@ -1,6 +1,6 @@
 Analysis code and results for the study
 
-#  Understanding the online countermovement to allegedly ‘faked’ presentations of psychiatric disorder
+#  Understanding the countermovement to online presentations of psychiatric disorder that are perceived as ‘faked’
 
 <p align="center">
 	<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img
