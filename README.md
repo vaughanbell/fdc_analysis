@@ -16,7 +16,7 @@ Analysis code and results for the study
 
 Pre-printed as: 
 
-> Bell, V., White, R., Foulkes, L. (in submission) Understanding the online countermovement to allegedly ‘faked’ presentations of psychiatric disorder
+> Bell, V., White, R., Foulkes, L. (in submission) Understanding the countermovement to online presentations of psychiatric disorder that are perceived as ‘faked’
 
 This archive contains the [Python code](https://en.wikipedia.org/wiki/Python_(programming_language)) for the analysis reported in the above study. The code is presented as a [Jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) which are documents that combine both code and the output in a form that can be viewed online, but also re-run and the results reproduced when accompanied by the original dataset.
 
